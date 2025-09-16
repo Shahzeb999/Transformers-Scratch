@@ -11,7 +11,7 @@ USAGE (from inside your repo or point --repo to it):
     --remote origin --branch "" \
     --message "chore(auto): push"
 
-Notes:
+Notes: Belal is a pussy
 - Make sure `git` is installed and your auth to GitHub is already set up (SSH key or credential manager).
 - By default, it includes only *.py and src/** and excludes docs/** and *.md. Adjust as you like.
 - If --branch is omitted (empty), the current branch is used.
